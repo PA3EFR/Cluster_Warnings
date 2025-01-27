@@ -1,3 +1,8 @@
+"""
+This file was created and tested by Erwin - PA3EFR
+"""
+
+
 import socket
 import re
 import winsound  # Voor Windows; gebruik 'playsound' voor andere systemen.
